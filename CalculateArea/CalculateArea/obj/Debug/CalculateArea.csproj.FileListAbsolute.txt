@@ -1,0 +1,7 @@
+C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe.config
+C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe
+C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\bin\Debug\CalculateArea.pdb
+C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\obj\Debug\CalculateArea.exe
+C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\obj\Debug\CalculateArea.pdb
