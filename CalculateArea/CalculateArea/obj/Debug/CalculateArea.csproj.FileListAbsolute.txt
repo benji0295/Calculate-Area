@@ -5,3 +5,10 @@ C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\bin\D
 C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\bin\Debug\CalculateArea.pdb
 C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\obj\Debug\CalculateArea.exe
 C:\Mac\Home\Documents\MSSA\Week1\Assignment1-3\CalculateArea\CalculateArea\obj\Debug\CalculateArea.pdb
+C:\Users\bensmith\source\repos\Calculate-Area\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.AssemblyReference.cache
+C:\Users\bensmith\source\repos\Calculate-Area\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\bensmith\source\repos\Calculate-Area\CalculateArea\CalculateArea\obj\Debug\CalculateArea.exe
+C:\Users\bensmith\source\repos\Calculate-Area\CalculateArea\CalculateArea\obj\Debug\CalculateArea.pdb
+C:\Users\bensmith\source\repos\Calculate-Area\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe.config
+C:\Users\bensmith\source\repos\Calculate-Area\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe
+C:\Users\bensmith\source\repos\Calculate-Area\CalculateArea\CalculateArea\bin\Debug\CalculateArea.pdb
